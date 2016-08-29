@@ -20,7 +20,13 @@ A simple web based blackjack game made with Javascript, HTML and CSS
 
 #### Developement
 ------
-#### User Stories
+#### ToDo
+
+  * Create Player
+  * Create Dealer
+  * Develop Dealer Algorithm
+  * Assign card values ('1', 'A', 'Ace')
+  * I/O for game in HTML/CSS
 
 
 ### License
